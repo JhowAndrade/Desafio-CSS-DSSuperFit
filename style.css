@@ -95,6 +95,12 @@ img{
     font-size: 14px;
 }
 
+.card-space-style{
+    padding: 20px 0;
+    font-size: 14px;
+    color: var(--bg-color-light-grey);
+}
+
 
 #modalities{
     border-color: var(--text-white);
@@ -144,13 +150,26 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px 10px 60px 0;
+    padding: 10px 10px 36px 0;
 }
 
 .card-link2{
     padding-left: 10px;
 }
 
+.footer-information{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.footer-address{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-style: italic;
+    padding-bottom: 60px;
+}   
 
 
 
